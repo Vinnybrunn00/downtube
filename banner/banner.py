@@ -12,6 +12,6 @@ def banner():
     ██████╔╝╚██████╔╝╚███╔███╔╝██║ ╚████║       ██║   ╚██████╔╝██████╔╝███████╗
     ╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝       ╚═╝    ╚═════╝ ╚═════╝ ╚══════╝
       
-      {W}version 1.0.0              {G}› {W}By Vinícius Bruno: From Brazil                                                                               
+    {W}version 2.0.0              {G}› {W}By Vinícius Bruno: From Brazil                                                                               
 '''
     print(text)

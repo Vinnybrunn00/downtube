@@ -2,3 +2,4 @@
 /venv
 /tests
 /__pycache__
+/fix_bug.py

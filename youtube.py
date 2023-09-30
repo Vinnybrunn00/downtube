@@ -7,21 +7,6 @@ W = '\033[0m'  # white
 G = '\033[32m' # green
 O = '\033[33m' # orange
 
-class fix_bug:
-    def __init__(self, active_fix:bool=False) -> None:
-        self.active_fix = active_fix
-        
-    def fix_cipher(self, path: str, line: int, new_line: str):
-        if self.active_fix != False:
-            with open(path, 'r') as cipher:
-                text = cipher.readlines()
-
-            with open(path, 'w') as cipher:
-                for i in text:
-                    if text.index(i) == line:
-                        cipher.write(f'''    transform_plan_raw = js''')
-                    else:
-                        cipher.write(i)
 class downtube:
     def __init__(self, internet_check:bool=True) -> None:
         self.check = internet_check
