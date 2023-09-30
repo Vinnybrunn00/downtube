@@ -6,7 +6,7 @@ from logs import log
 if __name__ == '__main__':
     
     # CLI
-    parser = ArgumentParser(description='teste')
+    parser = ArgumentParser(description='This script, written in Python, is capable of downloading videos, audios (music) and playlists from YouTube in high quality for free.')
     parser.add_argument('--video', help='Download Video From YouTube')
     parser.add_argument('--audio', help='Download Audio From YouTube')
     parser.add_argument('--playlist', help='Download a Playlist From YouTube')
