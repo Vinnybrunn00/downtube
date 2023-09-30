@@ -1,6 +1,6 @@
 # DownTube
 
-This script, written in Python, is capable of downloading videos, audios (music) and playlists from YouTube in high quality for free. The script is compatible on any system. read the README.md and learn how to use it.
+This script, written in Python, is capable of downloading videos, audios (music) and playlists from YouTube in high quality for free. The script is compatible on any system.
 
 <div align="center">
   <a href="https://instagram.com/vinnybrunn00" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
